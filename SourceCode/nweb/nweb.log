@@ -1,0 +1,135 @@
+ INFO: nweb starting:8080:5514
+ INFO: nweb starting:8080:5516
+ERROR: system call:bind Errno=98 exiting pid=5516
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:1
+ INFO: SEND:index.html:1
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 239
+Connection: close
+Content-Type: text/html
+
+:1
+ INFO: request:GET /nigel.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:2
+ INFO: SEND:nigel.jpg:2
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 10184
+Connection: close
+Content-Type: image/jpg
+
+:2
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept: */***Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:3
+ INFO: SEND:favicon.ico:3
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 1334
+Connection: close
+Content-Type: image/ico
+
+:3
+ INFO: request:GET /client.c HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:4
+FORBIDDEN: file extension type not supported:GET /client.c
+FORBIDDEN: failed to read browser request:
+FORBIDDEN: failed to read browser request:
+FORBIDDEN: failed to read browser request:
+ INFO: request:GET /nigel.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:8
+ INFO: SEND:nigel.jpg:8
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 10184
+Connection: close
+Content-Type: image/jpg
+
+:8
+FORBIDDEN: failed to read browser request:FORBIDDEN: failed to read browser request:
+
+ INFO: request:GET /test.zip HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:11
+ INFO: SEND:test.zip:11
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 0
+Connection: close
+Content-Type: image/zip
+
+:11
+FORBIDDEN: failed to read browser request:FORBIDDEN: failed to read browser request:
+
+ INFO: request:GET /nigel.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Cache-Control: max-age=0**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:14
+ INFO: SEND:nigel.jpg:14
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 10184
+Connection: close
+Content-Type: image/jpg
+
+:14
+ INFO: request:GET /nigel.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Cache-Control: max-age=0**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:15
+ INFO: SEND:nigel.jpg:15
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 10184
+Connection: close
+Content-Type: image/jpg
+
+:15
+ INFO: request:GET /nigel.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Cache-Control: max-age=0**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:16
+ INFO: SEND:nigel.jpg:16
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 10184
+Connection: close
+Content-Type: image/jpg
+
+:16
+ INFO: request:GET /test.zip HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:17
+ INFO: SEND:test.zip:17
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 0
+Connection: close
+Content-Type: image/zip
+
+:17
+ INFO: request:GET /hehe.zip HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:18
+NOT FOUND: failed to open file:hehe.zip
+ INFO: request:GET /index.html HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:19
+ INFO: SEND:index.html:19
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 239
+Connection: close
+Content-Type: text/html
+
+:19
+ INFO: request:GET /nigel.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Referer: http://127.0.0.1:8080/index.html**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:20
+ INFO: SEND:nigel.jpg:20
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 10184
+Connection: close
+Content-Type: image/jpg
+
+:20
+ INFO: request:GET /1 HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:21
+FORBIDDEN: file extension type not supported:GET /1
+ INFO: request:GET /test?a=1&b=2 HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:22
+FORBIDDEN: file extension type not supported:GET /test?a=1&b=2
+ INFO: request:GET / HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:23
+ INFO: SEND:index.html:23
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 239
+Connection: close
+Content-Type: text/html
+
+:23
+ INFO: request:GET /nigel.jpg HTTP/1.1**Host: 127.0.0.1:8080**Connection: keep-alive**Accept: image/webp,*/*;q=0.8**User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36**Referer: http://127.0.0.1:8080/**Accept-Encoding: gzip, deflate, sdch**Accept-Language: en-US,en;q=0.8**RA-Ver: 3.0.7**RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc****:24
+ INFO: SEND:nigel.jpg:24
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: 10184
+Connection: close
+Content-Type: image/jpg
+
+:24

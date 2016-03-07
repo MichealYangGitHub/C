@@ -1,0 +1,398 @@
+[ERROR] system call:bind ERRNO:98 pid:7915
+[ERROR] system call:bind ERRNO:98 pid:8000
+[ERROR] system call:bind ERRNO:13 pid:8175
+[ERROR] system call:bind ERRNO:13 pid:8531
+[INFO] request:GET / HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[FORBIDDEN] Only simple GET operation supported:GET / HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+
+[INFO] request:GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:3030/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[FORBIDDEN] Only simple GET operation supported:GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:3030/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+
+[INFO] request:GET /index.html HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[FORBIDDEN] Only simple GET operation supported:GET /index.html HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+
+[INFO] request:GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:3030/index.html
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[FORBIDDEN] Only simple GET operation supported:GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:3030/index.html
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+
+[FORBIDDEN] failed to read browser request:
+[FORBIDDEN] failed to read browser request:
+[INFO] request:GET /index.html HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[FORBIDDEN] Only simple GET operation supported:GET /index.html HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+
+[INFO] request:GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:3030/index.html
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[FORBIDDEN] Only simple GET operation supported:GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:3030/index.html
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+
+[FORBIDDEN] failed to read browser request:
+[INFO] request:GET / HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[FORBIDDEN] Only simple GET operation supported:GET / HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+
+[INFO] request:GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:3030/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[FORBIDDEN] Only simple GET operation supported:GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:3030/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+
+[INFO] request:GET / HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[INFO] SEND:index.html, 1
+[INFO] Header:HTTP/1.1 200 OK
+Server: nweb/1.0
+Content-Length: 268
+Connection: close
+Content-Type: text/html
+
+, 1
+[INFO] request:GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:3030/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[NOTFOUND] failed to open file:favicon.ico
+[INFO] request:GET / HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[INFO] SEND:index.html, 3
+[INFO] Header:HTTP/1.1 200 OK
+Server: nweb/1.0
+Content-Length: 268
+Connection: close
+Content-Type: text/html
+
+, 3
+[INFO] request:GET / HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[INFO] SEND:index.html, 4
+[INFO] Header:HTTP/1.1 200 OK
+Server: nweb/1.0
+Content-Length: 268
+Connection: close
+Content-Type: text/html
+
+, 4
+[INFO] server started:3030, 8729
+[INFO] server started:3030, 8730
+[INFO] request:GET / HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[INFO] SEND:index.html, 1
+[INFO] Header:HTTP/1.1 200 OK
+Server: nweb/1.0
+Content-Length: 268
+Connection: close
+Content-Type: text/html
+
+, 1
+[INFO] request:GET /index.html HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[INFO] SEND:index.html, 2
+[INFO] Header:HTTP/1.1 200 OK
+Server: nweb/1.0
+Content-Length: 268
+Connection: close
+Content-Type: text/html
+
+, 2
+[INFO] request:GET /test.txt HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[INFO] SEND:test.txt, 3
+[INFO] Header:HTTP/1.1 200 OK
+Server: nweb/1.0
+Content-Length: 5
+Connection: close
+Content-Type: 
+
+, 3
+[INFO] request:GET /test.zip HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[NOTFOUND] failed to open file:test.zip
+[INFO] request:GET /test.zip HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[INFO] SEND:test.zip, 5
+[INFO] Header:HTTP/1.1 200 OK
+Server: nweb/1.0
+Content-Length: 0
+Connection: close
+Content-Type: image/zip
+
+, 5
+[INFO] server started:3030, 9533
+[INFO] request:GET / HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[NOTFOUND] failed to open file:index.html
+[FORBIDDEN] failed to read browser request:
+[INFO] request:GET / HTTP/1.1
+Host: 127.0.0.1:3030
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+RA-Ver: 3.0.7
+RA-Sid: 72F73202-20141229-092047-4db4b5-c293bc
+
+, 4
+[NOTFOUND] failed to open file:index.html
+[FORBIDDEN] failed to read browser request:

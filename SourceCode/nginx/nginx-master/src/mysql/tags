@@ -1,0 +1,154 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+NGX_MYSQL_CMDPKT_LEN	ngx_mysql.h	44;"	d
+NGX_MYSQL_CMD_QUERY	ngx_mysql.c	25;"	d	file:
+NGX_MYSQL_CONNECT_WITH_DB	ngx_mysql.c	20;"	d	file:
+NGX_MYSQL_LONG_PASSWORD	ngx_mysql.c	19;"	d	file:
+NGX_MYSQL_PROTOCOL_41	ngx_mysql.c	21;"	d	file:
+NGX_MYSQL_SECURE_CONNECTION	ngx_mysql.c	22;"	d	file:
+_NGX_MYSQL_H_INCLUDED_	ngx_mysql.h	9;"	d
+__anon1::npeers	ngx_http_mysql_test.c	/^    ngx_uint_t   npeers;$/;"	m	struct:__anon1	file:	access:public
+__anon1::peers	ngx_http_mysql_test.c	/^    ngx_addr_t  *peers;$/;"	m	struct:__anon1	file:	access:public
+__anon2::pktlen	ngx_mysql.c	/^    u_char      pktlen[3];$/;"	m	struct:__anon2	file:	access:public
+__anon2::pktn	ngx_mysql.c	/^    u_char      pktn;$/;"	m	struct:__anon2	file:	access:public
+__anon2::protocol	ngx_mysql.c	/^    u_char      protocol;$/;"	m	struct:__anon2	file:	access:public
+__anon2::version	ngx_mysql.c	/^    u_char      version[1];       \/* NULL-terminated string *\/$/;"	m	struct:__anon2	file:	access:public
+__anon3::capacity	ngx_mysql.c	/^    u_char      capacity[2];$/;"	m	struct:__anon3	file:	access:public
+__anon3::charset	ngx_mysql.c	/^    u_char      charset;$/;"	m	struct:__anon3	file:	access:public
+__anon3::salt1	ngx_mysql.c	/^    u_char      salt1[9];$/;"	m	struct:__anon3	file:	access:public
+__anon3::salt2	ngx_mysql.c	/^    u_char      salt2[13];$/;"	m	struct:__anon3	file:	access:public
+__anon3::status	ngx_mysql.c	/^    u_char      status[2];$/;"	m	struct:__anon3	file:	access:public
+__anon3::thread	ngx_mysql.c	/^    u_char      thread[4];$/;"	m	struct:__anon3	file:	access:public
+__anon3::zero	ngx_mysql.c	/^    u_char      zero[13];$/;"	m	struct:__anon3	file:	access:public
+__anon4::capacity	ngx_mysql.c	/^    u_char      capacity[4];$/;"	m	struct:__anon4	file:	access:public
+__anon4::charset	ngx_mysql.c	/^    u_char      charset;$/;"	m	struct:__anon4	file:	access:public
+__anon4::login	ngx_mysql.c	/^    u_char      login[1];        \/* NULL-terminated string *\/$/;"	m	struct:__anon4	file:	access:public
+__anon4::max_packet	ngx_mysql.c	/^    u_char      max_packet[4];$/;"	m	struct:__anon4	file:	access:public
+__anon4::pktlen	ngx_mysql.c	/^    u_char      pktlen[3];$/;"	m	struct:__anon4	file:	access:public
+__anon4::pktn	ngx_mysql.c	/^    u_char      pktn;$/;"	m	struct:__anon4	file:	access:public
+__anon4::zero	ngx_mysql.c	/^    u_char      zero[23];$/;"	m	struct:__anon4	file:	access:public
+__anon5::fields	ngx_mysql.c	/^    u_char      fields;$/;"	m	struct:__anon5	file:	access:public
+__anon5::pktlen	ngx_mysql.c	/^    u_char      pktlen[3];$/;"	m	struct:__anon5	file:	access:public
+__anon5::pktn	ngx_mysql.c	/^    u_char      pktn;$/;"	m	struct:__anon5	file:	access:public
+__anon6::code	ngx_mysql.c	/^    u_char      code[2];$/;"	m	struct:__anon6	file:	access:public
+__anon6::err	ngx_mysql.c	/^    u_char      err;$/;"	m	struct:__anon6	file:	access:public
+__anon6::message	ngx_mysql.c	/^    u_char      message[1];        \/* string *\/$/;"	m	struct:__anon6	file:	access:public
+__anon6::pktlen	ngx_mysql.c	/^    u_char      pktlen[3];$/;"	m	struct:__anon6	file:	access:public
+__anon6::pktn	ngx_mysql.c	/^    u_char      pktn;$/;"	m	struct:__anon6	file:	access:public
+__anon7::arg	ngx_mysql.c	/^    u_char      arg[1];            \/* string *\/$/;"	m	struct:__anon7	file:	access:public
+__anon7::command	ngx_mysql.c	/^    u_char      command;$/;"	m	struct:__anon7	file:	access:public
+__anon7::pktlen	ngx_mysql.c	/^    u_char      pktlen[3];$/;"	m	struct:__anon7	file:	access:public
+__anon7::pktn	ngx_mysql.c	/^    u_char      pktn;$/;"	m	struct:__anon7	file:	access:public
+arg	ngx_mysql.c	/^    u_char      arg[1];            \/* string *\/$/;"	m	struct:__anon7	file:	access:public
+buf	ngx_mysql.h	/^    ngx_buf_t              *buf;$/;"	m	struct:ngx_mysql_s	access:public
+capacity	ngx_mysql.c	/^    u_char      capacity[2];$/;"	m	struct:__anon3	file:	access:public
+capacity	ngx_mysql.c	/^    u_char      capacity[4];$/;"	m	struct:__anon4	file:	access:public
+charset	ngx_mysql.c	/^    u_char      charset;$/;"	m	struct:__anon3	file:	access:public
+charset	ngx_mysql.c	/^    u_char      charset;$/;"	m	struct:__anon4	file:	access:public
+code	ngx_mysql.c	/^    u_char      code[2];$/;"	m	struct:__anon6	file:	access:public
+command	ngx_mysql.c	/^    u_char      command;$/;"	m	struct:__anon7	file:	access:public
+data	ngx_mysql.h	/^    void                   *data;$/;"	m	struct:ngx_mysql_s	access:public
+database	ngx_mysql.h	/^    ngx_str_t              *database;$/;"	m	struct:ngx_mysql_s	access:public
+err	ngx_mysql.c	/^    u_char      err;$/;"	m	struct:__anon6	file:	access:public
+fields	ngx_mysql.c	/^    u_char      fields;$/;"	m	struct:__anon5	file:	access:public
+handler	ngx_mysql.h	/^    ngx_mysql_handler_pt    handler;$/;"	m	struct:ngx_mysql_s	access:public
+login	ngx_mysql.c	/^    u_char      login[1];        \/* NULL-terminated string *\/$/;"	m	struct:__anon4	file:	access:public
+login	ngx_mysql.h	/^    ngx_str_t              *login;$/;"	m	struct:ngx_mysql_s	access:public
+max_packet	ngx_mysql.c	/^    u_char      max_packet[4];$/;"	m	struct:__anon4	file:	access:public
+message	ngx_mysql.c	/^    u_char      message[1];        \/* string *\/$/;"	m	struct:__anon6	file:	access:public
+ngx_htom16	ngx_mysql.h	53;"	d
+ngx_htom16	ngx_mysql.h	67;"	d
+ngx_htom24	ngx_mysql.h	55;"	d
+ngx_htom24	ngx_mysql.h	69;"	d
+ngx_htom32	ngx_mysql.h	59;"	d
+ngx_htom32	ngx_mysql.h	73;"	d
+ngx_http_mysql_auth	ngx_http_mysql_test.c	/^ngx_http_mysql_auth(ngx_mysql_t *m)$/;"	f	file:	signature:(ngx_mysql_t *m)
+ngx_http_mysql_auth	ngx_http_mysql_test.c	/^static void ngx_http_mysql_auth(ngx_mysql_t *m);$/;"	p	file:	signature:(ngx_mysql_t *m)
+ngx_http_mysql_done	ngx_http_mysql_test.c	/^ngx_http_mysql_done(ngx_mysql_t *m)$/;"	f	file:	signature:(ngx_mysql_t *m)
+ngx_http_mysql_done	ngx_http_mysql_test.c	/^static void ngx_http_mysql_done(ngx_mysql_t *m);$/;"	p	file:	signature:(ngx_mysql_t *m)
+ngx_http_mysql_test	ngx_http_mysql_test.c	/^ngx_http_mysql_test(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f	file:	signature:(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)
+ngx_http_mysql_test	ngx_http_mysql_test.c	/^static char *ngx_http_mysql_test(ngx_conf_t *cf, ngx_command_t *cmd,$/;"	p	file:	signature:(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)
+ngx_http_mysql_test.c	ngx_http_mysql_test.c	1;"	F
+ngx_http_mysql_test_commands	ngx_http_mysql_test.c	/^static ngx_command_t  ngx_http_mysql_test_commands[] = {$/;"	v	file:
+ngx_http_mysql_test_conf_t	ngx_http_mysql_test.c	/^} ngx_http_mysql_test_conf_t;$/;"	t	typeref:struct:__anon1	file:
+ngx_http_mysql_test_create_loc_conf	ngx_http_mysql_test.c	/^ngx_http_mysql_test_create_loc_conf(ngx_conf_t *cf)$/;"	f	file:	signature:(ngx_conf_t *cf)
+ngx_http_mysql_test_create_loc_conf	ngx_http_mysql_test.c	/^static void *ngx_http_mysql_test_create_loc_conf(ngx_conf_t *cf);$/;"	p	file:	signature:(ngx_conf_t *cf)
+ngx_http_mysql_test_handler	ngx_http_mysql_test.c	/^ngx_http_mysql_test_handler(ngx_http_request_t *r)$/;"	f	file:	signature:(ngx_http_request_t *r)
+ngx_http_mysql_test_module	ngx_http_mysql_test.c	/^ngx_module_t  ngx_http_mysql_test_module = {$/;"	v
+ngx_http_mysql_test_module_ctx	ngx_http_mysql_test.c	/^static ngx_http_module_t  ngx_http_mysql_test_module_ctx = {$/;"	v	file:
+ngx_m16toh	ngx_mysql.h	49;"	d
+ngx_m16toh	ngx_mysql.h	63;"	d
+ngx_m24toh	ngx_mysql.h	50;"	d
+ngx_m24toh	ngx_mysql.h	64;"	d
+ngx_m32toh	ngx_mysql.h	51;"	d
+ngx_m32toh	ngx_mysql.h	65;"	d
+ngx_mysql.c	ngx_mysql.c	1;"	F
+ngx_mysql.h	ngx_mysql.h	1;"	F
+ngx_mysql_auth_pkt_t	ngx_mysql.c	/^} ngx_mysql_auth_pkt_t;$/;"	t	typeref:struct:__anon4	file:
+ngx_mysql_close	ngx_mysql.c	/^ngx_mysql_close(ngx_mysql_t *m, ngx_int_t rc)$/;"	f	file:	signature:(ngx_mysql_t *m, ngx_int_t rc)
+ngx_mysql_close	ngx_mysql.c	/^static void ngx_mysql_close(ngx_mysql_t *m, ngx_int_t rc);$/;"	p	file:	signature:(ngx_mysql_t *m, ngx_int_t rc)
+ngx_mysql_command_pkt_t	ngx_mysql.c	/^} ngx_mysql_command_pkt_t;$/;"	t	typeref:struct:__anon7	file:
+ngx_mysql_command_query	ngx_http_mysql_test.c	/^static ngx_str_t  ngx_mysql_command_query =$/;"	v	file:
+ngx_mysql_connect	ngx_mysql.c	/^ngx_mysql_connect(ngx_mysql_t *m)$/;"	f	signature:(ngx_mysql_t *m)
+ngx_mysql_connect	ngx_mysql.h	/^ngx_int_t ngx_mysql_connect(ngx_mysql_t *m);$/;"	p	signature:(ngx_mysql_t *m)
+ngx_mysql_database	ngx_http_mysql_test.c	/^static ngx_str_t  ngx_mysql_database = ngx_string("mysql");$/;"	v	file:
+ngx_mysql_empty_handler	ngx_mysql.c	/^ngx_mysql_empty_handler(ngx_event_t *wev)$/;"	f	file:	signature:(ngx_event_t *wev)
+ngx_mysql_empty_handler	ngx_mysql.c	/^static void ngx_mysql_empty_handler(ngx_event_t *wev);$/;"	p	file:	signature:(ngx_event_t *wev)
+ngx_mysql_error_pkt_t	ngx_mysql.c	/^} ngx_mysql_error_pkt_t;$/;"	t	typeref:struct:__anon6	file:
+ngx_mysql_greeting1_pkt_t	ngx_mysql.c	/^} ngx_mysql_greeting1_pkt_t;$/;"	t	typeref:struct:__anon2	file:
+ngx_mysql_greeting2_pkt_t	ngx_mysql.c	/^} ngx_mysql_greeting2_pkt_t;$/;"	t	typeref:struct:__anon3	file:
+ngx_mysql_handler_pt	ngx_mysql.h	/^typedef void (*ngx_mysql_handler_pt)(ngx_mysql_t *m);$/;"	t
+ngx_mysql_login	ngx_http_mysql_test.c	/^static ngx_str_t  ngx_mysql_login = ngx_string("root");$/;"	v	file:
+ngx_mysql_passwd	ngx_http_mysql_test.c	/^static ngx_str_t  ngx_mysql_passwd = ngx_string("tp");$/;"	v	file:
+ngx_mysql_query	ngx_mysql.c	/^ngx_mysql_query(ngx_mysql_t *m)$/;"	f	signature:(ngx_mysql_t *m)
+ngx_mysql_query	ngx_mysql.h	/^ngx_int_t ngx_mysql_query(ngx_mysql_t *m);$/;"	p	signature:(ngx_mysql_t *m)
+ngx_mysql_read_auth_result	ngx_mysql.c	/^ngx_mysql_read_auth_result(ngx_event_t *rev)$/;"	f	file:	signature:(ngx_event_t *rev)
+ngx_mysql_read_auth_result	ngx_mysql.c	/^static void ngx_mysql_read_auth_result(ngx_event_t *rev);$/;"	p	file:	signature:(ngx_event_t *rev)
+ngx_mysql_read_query_result	ngx_mysql.c	/^ngx_mysql_read_query_result(ngx_event_t *rev)$/;"	f	file:	signature:(ngx_event_t *rev)
+ngx_mysql_read_query_result	ngx_mysql.c	/^static void ngx_mysql_read_query_result(ngx_event_t *rev);$/;"	p	file:	signature:(ngx_event_t *rev)
+ngx_mysql_read_server_greeting	ngx_mysql.c	/^ngx_mysql_read_server_greeting(ngx_event_t *rev)$/;"	f	file:	signature:(ngx_event_t *rev)
+ngx_mysql_read_server_greeting	ngx_mysql.c	/^static void ngx_mysql_read_server_greeting(ngx_event_t *rev);$/;"	p	file:	signature:(ngx_event_t *rev)
+ngx_mysql_response_pkt_t	ngx_mysql.c	/^} ngx_mysql_response_pkt_t;$/;"	t	typeref:struct:__anon5	file:
+ngx_mysql_s	ngx_mysql.h	/^struct ngx_mysql_s {$/;"	s
+ngx_mysql_s::buf	ngx_mysql.h	/^    ngx_buf_t              *buf;$/;"	m	struct:ngx_mysql_s	access:public
+ngx_mysql_s::data	ngx_mysql.h	/^    void                   *data;$/;"	m	struct:ngx_mysql_s	access:public
+ngx_mysql_s::database	ngx_mysql.h	/^    ngx_str_t              *database;$/;"	m	struct:ngx_mysql_s	access:public
+ngx_mysql_s::handler	ngx_mysql.h	/^    ngx_mysql_handler_pt    handler;$/;"	m	struct:ngx_mysql_s	access:public
+ngx_mysql_s::login	ngx_mysql.h	/^    ngx_str_t              *login;$/;"	m	struct:ngx_mysql_s	access:public
+ngx_mysql_s::passwd	ngx_mysql.h	/^    ngx_str_t              *passwd;$/;"	m	struct:ngx_mysql_s	access:public
+ngx_mysql_s::peer	ngx_mysql.h	/^    ngx_peer_connection_t   peer;$/;"	m	struct:ngx_mysql_s	access:public
+ngx_mysql_s::pktn	ngx_mysql.h	/^    ngx_uint_t              pktn;$/;"	m	struct:ngx_mysql_s	access:public
+ngx_mysql_s::pool	ngx_mysql.h	/^    ngx_pool_t             *pool;$/;"	m	struct:ngx_mysql_s	access:public
+ngx_mysql_s::query	ngx_mysql.h	/^    ngx_str_t               query;$/;"	m	struct:ngx_mysql_s	access:public
+ngx_mysql_s::state	ngx_mysql.h	/^    ngx_int_t               state;$/;"	m	struct:ngx_mysql_s	access:public
+ngx_mysql_t	ngx_mysql.h	/^typedef struct ngx_mysql_s  ngx_mysql_t;$/;"	t	typeref:struct:ngx_mysql_s
+npeers	ngx_http_mysql_test.c	/^    ngx_uint_t   npeers;$/;"	m	struct:__anon1	file:	access:public
+passwd	ngx_mysql.h	/^    ngx_str_t              *passwd;$/;"	m	struct:ngx_mysql_s	access:public
+peer	ngx_mysql.h	/^    ngx_peer_connection_t   peer;$/;"	m	struct:ngx_mysql_s	access:public
+peers	ngx_http_mysql_test.c	/^    ngx_addr_t  *peers;$/;"	m	struct:__anon1	file:	access:public
+pktlen	ngx_mysql.c	/^    u_char      pktlen[3];$/;"	m	struct:__anon2	file:	access:public
+pktlen	ngx_mysql.c	/^    u_char      pktlen[3];$/;"	m	struct:__anon4	file:	access:public
+pktlen	ngx_mysql.c	/^    u_char      pktlen[3];$/;"	m	struct:__anon5	file:	access:public
+pktlen	ngx_mysql.c	/^    u_char      pktlen[3];$/;"	m	struct:__anon6	file:	access:public
+pktlen	ngx_mysql.c	/^    u_char      pktlen[3];$/;"	m	struct:__anon7	file:	access:public
+pktn	ngx_mysql.c	/^    u_char      pktn;$/;"	m	struct:__anon2	file:	access:public
+pktn	ngx_mysql.c	/^    u_char      pktn;$/;"	m	struct:__anon4	file:	access:public
+pktn	ngx_mysql.c	/^    u_char      pktn;$/;"	m	struct:__anon5	file:	access:public
+pktn	ngx_mysql.c	/^    u_char      pktn;$/;"	m	struct:__anon6	file:	access:public
+pktn	ngx_mysql.c	/^    u_char      pktn;$/;"	m	struct:__anon7	file:	access:public
+pktn	ngx_mysql.h	/^    ngx_uint_t              pktn;$/;"	m	struct:ngx_mysql_s	access:public
+pool	ngx_mysql.h	/^    ngx_pool_t             *pool;$/;"	m	struct:ngx_mysql_s	access:public
+protocol	ngx_mysql.c	/^    u_char      protocol;$/;"	m	struct:__anon2	file:	access:public
+query	ngx_mysql.h	/^    ngx_str_t               query;$/;"	m	struct:ngx_mysql_s	access:public
+salt1	ngx_mysql.c	/^    u_char      salt1[9];$/;"	m	struct:__anon3	file:	access:public
+salt2	ngx_mysql.c	/^    u_char      salt2[13];$/;"	m	struct:__anon3	file:	access:public
+state	ngx_mysql.h	/^    ngx_int_t               state;$/;"	m	struct:ngx_mysql_s	access:public
+status	ngx_mysql.c	/^    u_char      status[2];$/;"	m	struct:__anon3	file:	access:public
+thread	ngx_mysql.c	/^    u_char      thread[4];$/;"	m	struct:__anon3	file:	access:public
+version	ngx_mysql.c	/^    u_char      version[1];       \/* NULL-terminated string *\/$/;"	m	struct:__anon2	file:	access:public
+zero	ngx_mysql.c	/^    u_char      zero[13];$/;"	m	struct:__anon3	file:	access:public
+zero	ngx_mysql.c	/^    u_char      zero[23];$/;"	m	struct:__anon4	file:	access:public
